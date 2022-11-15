@@ -1,3 +1,4 @@
+import React from "react";
 import Home from "./Routes/home/HomeComponent";
 import { Routes, Route } from "react-router-dom";
 import Navigation from "./Routes/navigation/NavigationComponent";
